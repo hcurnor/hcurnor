@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-[![Hcurnor's github stats](https://github-readme-stats.vercel.app/api?username=hcurnor&count_private=true&hide=contribs,prs&show_icons=true)](https://github.com/hcurnor/github-readme-stats)
+![Hcurnor's github stats](https://github-readme-stats.vercel.app/api?username=hcurnor&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcurnor)](https://github.com/hcurnor/github-readme-stats)
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcurnor)-->
+<!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hcurnor&repo=node-template)-->
+
+![](https://visitor-badge.laobi.icu/badge?page_id=hcurnor.hcurnor)
+[![Github](https://img.shields.io/github/followers/hcurnor?label=Follow&style=social)](https://github.com/hcurnor)
 
 <!--
 **hcurnor/hcurnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
