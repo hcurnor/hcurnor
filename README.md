@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hcurnor's github stats](https://github-readme-stats.vercel.app/api?username=hcurnor)](https://github.com/hcurnor/github-readme-stats)
+
 <!--
 **hcurnor/hcurnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
