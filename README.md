@@ -3,8 +3,6 @@
 </div>
 
 - 🔥 JavaScript Enthusiast
-- 🌱 I’m currently learning advanced React
-- ⚡️ Fun fact: I just love learning new things
 - 💬 Chat with me:  [@hcurnor](https://www.linkedin.com/in/hcurnor/)
 - 👨‍💻 Working as FullStack Engineer at [TeamingWay](https://teamingway.com) 
 
