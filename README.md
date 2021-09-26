@@ -3,8 +3,8 @@
 </div>
 
 - 🔥 JavaScript Enthusiast
-- 💬 Chat with me:  [@hcurnor](https://www.linkedin.com/in/hcurnor/)
 - 👨‍💻 Working as FullStack Engineer at [TeamingWay](https://teamingway.com) 
+- 💬 Chat with me:  [@hcurnor](https://www.linkedin.com/in/hcurnor/)
 
 ![Hcurnor's github stats](https://github-readme-stats.vercel.app/api?username=hcurnor&count_private=true&show_icons=true)
 
