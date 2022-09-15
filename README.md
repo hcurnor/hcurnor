@@ -3,5 +3,5 @@
 </div>
 
 - 🔥 JavaScript Enthusiast
-- 👨‍💻 Working as FullStack Engineer at [TeamingWay](https://teamingway.com) 
+- 👨‍💻 Senior Software Engineer at [TeamingWay](https://teamingway.com) 
 - 💬 Chat with me:  [@hcurnor](https://www.linkedin.com/in/hcurnor/)
