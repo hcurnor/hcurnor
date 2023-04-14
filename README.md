@@ -3,5 +3,5 @@
 </div>
 
 - 🔥 JavaScript Enthusiast
-- 👨‍💻 Senior Software Engineer at [TeamingWay](https://teamingway.com) 
+- 👨‍💻 Senior Software Engineer at [Taazaa Inc](https://www.taazaa.com) 
 - 💬 Chat with me:  [@hcurnor](https://www.linkedin.com/in/hcurnor/)
